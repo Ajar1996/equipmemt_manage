@@ -1,5 +1,6 @@
 # equipmemt_manage
-设备管理系统（Spring Boot）
+设备管理系统
+
 前端：Vue、axios
 
 后端：Srping Boot、Spring Data JPA、Shiro
