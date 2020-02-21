@@ -2,6 +2,7 @@
 设备管理系统
 
 预览地址：http://interesting1996.shop:888/#/login
+
 前端：Vue、axios
 
 后端：Srping Boot、Spring Data JPA、Shiro
