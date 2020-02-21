@@ -1,7 +1,7 @@
 # equipmemt_manage
 设备管理系统
 
-预览地址：interesting1996.shop:888/#/login
+预览地址：http://interesting1996.shop:888/#/login
 
 前端：Vue、axios
 
